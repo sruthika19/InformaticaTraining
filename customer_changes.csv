@@ -1,0 +1,9 @@
+CUST_ID,FIRST_NAME,LAST_NAME,EMAIL,CITY,STATE,REGION_CODE
+102,Rahul,Verma,rahul.verma@mail.com,Gurugram,HR,N
+105,Sneha,Iyer,sneha.iyer@newmail.com,Bengaluru,KA,S
+103,Priya,Nair,priya.nair@mail.com,Kochi,KL,S
+108,Karthik,Subramanian,karthik.s@mail.com,Coimbatore,TN,S
+109,Meera,Patel,meera.patel@mail.com,Ahmedabad,GJ,W
+109,Meera,Patel,meera.patel@mail.com,Ahmedabad,GJ,W
+110,Imran,Khan,imran.khan@mail.com,Lucknow,UP,N
+111,Farah,Ali,farah.ali@mail.com,Hyderabad,TS,S
